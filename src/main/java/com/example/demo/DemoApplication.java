@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
-
+	
+	/*git Test-1*/
 	public static void main(String[] args) {
 		
 		/*git-test-issue1 ¼öÁ¤. 1231235555*/
