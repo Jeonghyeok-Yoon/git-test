@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		
-		/*git-test-issue1 수정. */
+		/*git-test-issue1 수정. 123123*/
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
